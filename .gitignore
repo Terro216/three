@@ -1,6 +1,8 @@
 node_modules
+old/node_modules
 .DS_Store
 dist
+old/dist
 dist-ssr
 *.local
 *.code-workspace
